@@ -1,0 +1,18 @@
+#chart{clear:left;overflow:auto;width:100%;height:1000px;}
+#description{float:right;font-size:13px;}
+#flattr{float:right;padding-left:20px;}
+#footer{font-size:12px;}
+#legend,#legend2{-moz-border-radius:2px;-webkit-border-radius:2px;border:solid 1px #000;height:1em;line-height:1;margin-right:.3em;width:1em;}
+#loader{left:50%;margin:-16px 0 0 -16px;position:absolute;top:50%;}
+#name div,#name2 div,#info{float:left;}
+#name,#name2{clear:left;float:left;}
+#placeholder{clear:left;color:#999;}
+.FlattrButton{position:relative;top:5px;}
+.hidden{display:none;}
+.invisible{visibility:hidden;}
+a{color:grey;font-size:13px;text-decoration:none;}
+a:hover{text-decoration:underline;}
+body{font:100.1% Helvetica, Arial, sans-serif;line-height:1.3;margin:20px 50px;}
+em{color:#666;font-style:normal;}
+fieldset{border:none;margin:0;padding:0;}
+form{margin:0 0 10px;padding:0;}
