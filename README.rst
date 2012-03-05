@@ -21,6 +21,7 @@ To get it working with other repositories
 * Check the ``core-stat.php`` and change ``$modules`` to use the proper submodule paths (if you've any). 
 * Check the ``core-stat.php`` and change the ``$stateDate`` to have a reasonable value
 * Check ``StatGenerator::mapName``within ``core-lib.php`` and adjust the names to fit your repo.
+* Remove my flattr buttons and Google Analytics stuff from the source-codes ;)
 
 Sidenotes
 ---------
