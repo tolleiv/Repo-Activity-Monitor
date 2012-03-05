@@ -13,6 +13,7 @@ These steps are required to get it working
 * Clone this repository to some place
 * Run ``php core-stat.php /path/to/your/core/checkout /path/for/the/output`` within the checkout of that repo (Might take some time).
 * Find some files containing the rendered statistics in ``/path/for/the/output``
+* Copy `ìndex.html``, `graph.js``, ``raphael.js``, ``ajax-loader.gif``, ``style.css``from the repo also into ``/path/for/the/output``
 
 To get it working with other repositories
 -----------------------------------------
